@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1631089784 source:d:\cbproject\后缀表达式\main.cpp
+	<iostream>
+	<string>
+	<stack>
+	<queue>
+	<vector>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1641289238 source:d:\cbproject\数据结构日常\抢红包\main.cpp
+	<iostream>
+	<algorithm>
+

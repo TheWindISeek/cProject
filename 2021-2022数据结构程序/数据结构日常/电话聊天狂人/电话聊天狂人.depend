@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637404916 source:d:\cbproject\数据结构日常\电话聊天狂人\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+

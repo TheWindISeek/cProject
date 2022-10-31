@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1610939310 source:d:\c++\数组相关\main.cpp
+	<iostream>
+	<vector>
+	<iterator>
+	<string>
+	<cstring>
+

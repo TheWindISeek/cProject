@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632554679 source:d:\cbproject\前缀表达式求值\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+

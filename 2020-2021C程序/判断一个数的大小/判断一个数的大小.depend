@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605325131 source:d:\判断一个数的大小\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

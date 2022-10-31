@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1612624967 source:d:\c++\class\src\mine.cpp
+	"mine.h"
+
+1612624967 d:\c++\class\include\mine.h
+
+1625561936 source:d:\c++\class\main.cpp
+	<iostream>
+

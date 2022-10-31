@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1607952174 source:d:\cbproject\重复数字检查（对函数的使用）\main.c
+	<stdlib.h>
+	<stdio.h>
+	<math.h>
+

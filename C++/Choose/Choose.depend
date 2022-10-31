@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1626166414 source:d:\c++\choose\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

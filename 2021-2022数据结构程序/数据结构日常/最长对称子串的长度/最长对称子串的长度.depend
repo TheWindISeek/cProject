@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1641216062 source:d:\cbproject\数据结构日常\最长对称子串的长度\main.cpp
+	<stdio.h>
+	<iostream>
+	<map>
+

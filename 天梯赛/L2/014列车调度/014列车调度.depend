@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1642597625 source:d:\cbproject\l2\014列车调度\main.cpp
+	<iostream>
+	<set>
+	<cstdio>
+

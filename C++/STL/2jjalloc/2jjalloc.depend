@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1643015451 source:d:\c++\stl\2jjalloc\main.cpp
+	"2jjalloc.h"
+	<vector>
+	<iostream>
+
+1643016259 d:\c++\stl\2jjalloc\2jjalloc.h
+	<new>
+	<cstddef>
+	<climits>
+	<iostream>
+

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<wxsmith>
+	<object class="wxFrame" name="wxDrawFunctionFrame">
+		<title>wxWidgets绘图函数演示程序</title>
+		<icon>C:\Users\Administrator\Desktop\d2661a31f9635386d25c4740a09dd17c.png</icon>
+		<size>616,450</size>
+		<object class="wxMenuBar" variable="MenuBar1" member="no">
+			<object class="wxMenu" variable="Menu1" member="no">
+				<label>&amp;File</label>
+				<object class="wxMenuItem" name="idMenuQuit" variable="MenuItem1" member="no">
+					<label>Quit</label>
+					<accel>Alt-F4</accel>
+					<help>Quit the application</help>
+					<handler function="OnQuit" entry="EVT_MENU" />
+				</object>
+			</object>
+			<object class="wxMenu" variable="Menu2" member="no">
+				<label>Help</label>
+				<object class="wxMenuItem" name="idMenuAbout" variable="MenuItem2" member="no">
+					<label>About</label>
+					<accel>F1</accel>
+					<help>Show info about this application</help>
+					<handler function="OnAbout" entry="EVT_MENU" />
+				</object>
+			</object>
+		</object>
+		<object class="wxStatusBar" name="ID_STATUSBAR1" variable="StatusBar1" member="yes">
+			<fields>1</fields>
+			<widths>-1</widths>
+			<styles>wxSB_NORMAL</styles>
+		</object>
+		<object class="wxToolBar" name="ID_TOOLBAR1" variable="ToolBar1" member="yes">
+			<object class="tool" name="ID_TOOLBARDRAWLINE" variable="ToolBarItem1" member="yes">
+				<label>画线</label>
+				<bitmap>C:\Users\Administrator\Desktop\01.png</bitmap>
+				<bitmap2>C:\Users\Administrator\Desktop\01.png</bitmap2>
+				<handler function="OnToolBarDrawLineClicked" entry="EVT_TOOL" />
+			</object>
+			<object class="tool" name="ID_TOOLBARDRAWLINE2" variable="ToolBarItem2" member="yes">
+				<label>画线2</label>
+				<bitmap>C:\Users\Administrator\Desktop\02.png</bitmap>
+				<bitmap2>C:\Users\Administrator\Desktop\02.png</bitmap2>
+				<handler function="OnToolBarDrawLinesClicked" entry="EVT_TOOL" />
+			</object>
+			<object class="tool" name="ID_TOOLBARSPLINE" variable="ToolBarItem3" member="yes">
+				<label>样条曲线</label>
+				<bitmap>C:\Users\Administrator\Desktop\03.png</bitmap>
+				<bitmap2>C:\Users\Administrator\Desktop\03.png</bitmap2>
+				<handler function="OnToolBarSplineClicked" entry="EVT_TOOL" />
+			</object>
+		</object>
+	</object>
+</wxsmith>

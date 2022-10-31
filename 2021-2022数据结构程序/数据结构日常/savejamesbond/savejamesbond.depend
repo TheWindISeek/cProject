@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1637123589 source:d:\cbproject\数据结构日常\savejamesbond\main.cpp
+	<cstdlib>
+	<cstdio>
+	<cmath>
+	<stack>
+	<queue>
+	<algorithm>
+	<iostream>
+

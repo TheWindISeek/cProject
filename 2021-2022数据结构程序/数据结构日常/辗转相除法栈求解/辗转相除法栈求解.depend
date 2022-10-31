@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632017940 source:d:\cbproject\辗转相除法栈求解\main.cpp
+	<iostream>
+	<stack>
+

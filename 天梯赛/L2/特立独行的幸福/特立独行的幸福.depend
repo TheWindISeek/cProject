@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1644666293 source:d:\cbproject\天梯赛\l2\特立独行的幸福\main.cpp
+	<cstdio>
+	<iostream>
+	<cstring>
+	<cmath>
+

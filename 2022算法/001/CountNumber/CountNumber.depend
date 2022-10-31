@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1647410049 source:d:\cbproject\algorithm\001\countnumber\main.cpp
+	"../../READFILE/ReadFile.h"
+	<cstring>
+	<set>
+	<cmath>
+
+1646193323 d:\cbproject\algorithm\readfile.h
+	<cstdio>
+	<iostream>
+	<vector>
+
+1646193531 d:\cbproject\algorithm\readfile\readfile.h
+	<cstdio>
+	<iostream>
+	<vector>
+

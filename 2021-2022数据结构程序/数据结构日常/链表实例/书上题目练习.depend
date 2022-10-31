@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1606384657 source:d:\书上题目练习\main.c
+	<stdio.h>
+	<stdlib.h>
+

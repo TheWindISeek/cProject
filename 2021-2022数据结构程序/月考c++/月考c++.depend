@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1636625416 source:d:\cbproject\ÔÂ¿¼c++\main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<algorithm>
+

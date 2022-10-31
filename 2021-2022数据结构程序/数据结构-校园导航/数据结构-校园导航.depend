@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1639282448 source:d:\cbproject\数据结构-校园导航\main.cpp
+	<iostream>
+	<cstring>
+	<cstdio>
+	<cstdlib>
+	<stack>
+

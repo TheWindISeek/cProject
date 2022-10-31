@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1649296849 source:d:\cbproject\紧张刺激的蓝桥杯备赛\货物摆放\main.cpp
+	<iostream>
+	<vector>
+	<set>
+	<cmath>
+

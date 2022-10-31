@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1648865557 source:d:\cbproject\天梯赛\备赛\正则表达式匹配\main.cpp
+	<iostream>
+	<vector>
+	<cstring>
+

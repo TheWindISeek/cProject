@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636885024 source:d:\cbproject\数据结构日常\save007\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

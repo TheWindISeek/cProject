@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1631953336 source:d:\cbproject\出栈队列的合法性\main.cpp
+	<iostream>
+	<stack>
+

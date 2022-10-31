@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630160039 source:d:\cbproject\最长连续增长子序列\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1637334073 source:d:\cbproject\数据结构日常\ptajudge\main.cpp
+	<iostream>
+	<algorithm>
+	<cstring>
+

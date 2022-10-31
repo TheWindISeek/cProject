@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1631954407 source:d:\cbproject\·ûºÅÅä¶Ô\main.cpp
+	<iostream>
+	<stack>
+	<queue>
+	<string>
+	<cstring>
+

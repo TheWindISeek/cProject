@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637746075 source:d:\cbproject\数据结构日常\国家奖牌排名\main.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<algorithm>
+

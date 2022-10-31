@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1630068046 source:d:\cbproject\集合的并集\main.c
+	<stdio.h>
+	<stdlib.h>
+

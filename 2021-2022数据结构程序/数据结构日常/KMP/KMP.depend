@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632541331 source:d:\cbproject\kmp\main.cpp
+	<iostream>
+	<string>
+	<cstring>
+

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_workspace_file>
+	<Workspace title="Workspace">
+		<Project filename="FuncComp/FuncComp.cbp" />
+		<Project filename="EightQueens/EightQueens.cbp" />
+	</Workspace>
+</CodeBlocks_workspace_file>

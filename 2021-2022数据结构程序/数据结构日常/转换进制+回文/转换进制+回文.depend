@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1639884976 source:d:\cbproject\数据结构日常\转换进制+回文\main.cpp
+	<iostream>
+	<queue>
+	<stack>
+	<cstring>
+

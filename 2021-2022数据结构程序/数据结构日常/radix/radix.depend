@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1638609951 source:d:\cbproject\radix\main.cpp
+	<iostream>
+	<stack>
+	<queue>
+	<map>
+	<cmath>
+

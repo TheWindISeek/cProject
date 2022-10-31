@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1631067443 source:d:\cbproject\列车调度问题\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

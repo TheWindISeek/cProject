@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1641286129 source:d:\cbproject\数据结构日常\悄悄关注\main.cpp
+	<iostream>
+	<algorithm>
+	<cstdio>
+	<set>
+

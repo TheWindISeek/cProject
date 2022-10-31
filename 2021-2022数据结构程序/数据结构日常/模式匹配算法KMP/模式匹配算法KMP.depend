@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1638085481 source:d:\cbproject\数据结构日常\模式匹配算法kmp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

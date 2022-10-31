@@ -1,0 +1,17 @@
+周  月   日  时:分:秒  年 课程 学生 操作
+
+Fri Dec 25 23:00:41 2020
+  database 2020201 选课
+Sat Dec 26 12:23:52 2020
+  database 2020202 选课
+Sat Dec 26 12:36:46 2020
+  algorithm design analysis 2020202 选课
+Sat Dec 26 12:41:37 2020
+  algorithm design analysis 2020202 退课
+
+Wed Dec 30 15:50:51 2020
+  operations research 2020203 选课
+Wed Dec 30 15:52:03 2020
+  visual computing 2020203 选课
+Wed Dec 30 16:31:52 2020
+  computing system 2020104 选课

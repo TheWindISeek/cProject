@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1648005905 source:d:\cbproject\algorithm\prog25\array\main.cpp
+	"../../READFILE/ReadFile.h"
+	<cstring>
+	<set>
+	<cmath>
+	<algorithm>
+	<string>
+	<sstream>
+	<fstream>
+
+1646193531 d:\cbproject\algorithm\readfile\readfile.h
+	<cstdio>
+	<iostream>
+	<vector>
+

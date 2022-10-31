@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1637135771 source:d:\cbproject\数据结构日常\村村通\main.cpp
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<algorithm>
+

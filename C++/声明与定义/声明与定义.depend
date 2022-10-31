@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1610249370 source:d:\c++\声明与定义\main.cpp
+	<iostream>
+	<cstdlib>
+	<cmath>
+

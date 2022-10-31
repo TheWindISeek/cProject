@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1650533855 source:d:\cbproject\c++\md5\main.cpp
+	<iostream>
+	<string>
+
